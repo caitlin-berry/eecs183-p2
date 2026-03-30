@@ -1,6 +1,6 @@
 # **Project 2 - Rock-Paper-Scissors Game**
 A C++ program that simulates a multi-round rock-paper-scissors game between two players. The program uses a menu-driven interface, modular function design, and includes a test suite to verify correctness of core game logic.
-## **Overview**
+## **Overview** 
 This program allows two players to play a three-round game of rock-paper-scissors. It:
 - Prompts players for their names
 - Provides a menu to start games or quit
