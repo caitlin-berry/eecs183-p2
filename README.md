@@ -7,6 +7,7 @@ This program allows two players to play a three-round game of rock-paper-scissor
 - Processes player moves with input validation
 - Determines round winners and overall game winner
 - Repeats gameplay until the user chooses to exit
+
 The program is structured using multiple functions, each responsible for a specific part of the game logic.
 ## **How to Run**
 Compile the program:
@@ -25,11 +26,11 @@ Follow the on-screen prompts to play the game or run test cases.
 - Loops (while and for)
 - Separation of logic and testing
 - Writing and using test cases
-##**Program Structure**
+## **Program Structure**
 - rps.cpp: Core game logic and function implementations
 - test.cpp: Test suite for validating functions
 - start.cpp: Entry point and menu system
-##**Example Features**
+## **Example Features**
 - Menu-driven interface for repeated gameplay
 - Validation of player moves (r, p, s)
 - Automatic handling of invalid input with default behavior
